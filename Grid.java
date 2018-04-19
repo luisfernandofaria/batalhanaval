@@ -1,3 +1,5 @@
+//criação do "fundo" do jogo
+
 import javax.swing.*;
 import java.awt.*;
 
